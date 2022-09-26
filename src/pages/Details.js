@@ -18,11 +18,11 @@ import './styles.css'
 
 export default function About() {
   return <div>
-    <h2>Please hover on each image to see the details about the family member.</h2> 
+    <h2>Yadav's Family Members</h2> 
     <div class="wrapper">
       <div className="container">    
-          <img src={papa} alt="Papa" className="image"></img>
-            <div className="middle">
+          <img src={papa} alt="Papa"  width="400px" height="400px"></img>
+            <div className="middle1">
               <div className="text">
                 <h2>Sube Singh Yadav</h2>
                 <p><b>DOB:</b> 13-Jun-1950</p>
@@ -33,9 +33,9 @@ export default function About() {
             </div>
       </div>
       <div className="container">        
-        <img src={mummy} alt="Mummy" className="image">
+        <img src={mummy} alt="Mummy"  width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Meena Yadav</h2>
               <p><b>DOB:</b> 14-07-1954</p>
@@ -46,9 +46,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={suman3} alt="Suman" className="image">
+        <img src={suman3} alt="Suman" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Suman Yadav</h2>
               <p><b>DOB:</b> 14-02-1973</p>
@@ -59,9 +59,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={pintoo} alt="Pintoo" className="image">
+        <img src={pintoo} alt="Pintoo" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Pintoo Yadav</h2>
               <p><b>DOB:</b> 22-02-1971</p>
@@ -72,9 +72,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={eshita2} alt="Eshita" className="image">
+        <img src={eshita2} alt="Eshita" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Eshita Yadav</h2>
               <p><b>DOB:</b> 22-12-1999</p>
@@ -85,9 +85,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={eshita2} alt="Eshaan" className="image">
+        <img src={eshita2} alt="Eshaan" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Eshaan Yadav</h2>
               <p><b>DOB:</b> 23-07-2001</p>
@@ -98,9 +98,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={sunita_family_2} alt="Sunita" className="image">
+        <img src={sunita_family_2} alt="Sunita" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Sunita Yadav</h2>
               <p><b>DOB:</b> 08-03-1976</p>
@@ -111,9 +111,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={atul} alt="Atul" className="image">
+        <img src={atul} alt="Atul" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Atul Singh</h2>
               <p><b>DOB:</b> 30-01-1973</p>
@@ -124,9 +124,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={ashmit} alt="Ashmit" className="image">
+        <img src={ashmit} alt="Ashmit" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Ashmit Singh</h2>
               <p><b>DOB:</b> 08-11-2001</p>
@@ -137,9 +137,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={mukesh} alt="Mukesh" className="image">
+        <img src={mukesh} alt="Mukesh" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Mukesh Yadav</h2>
               <p><b>DOB:</b> 29-10-1978</p>
@@ -150,9 +150,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={sharmila} alt="Sharmila" className="image" width="500px" height="600px">
+        <img src={sharmila} alt="Sharmila" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Sharmila Yadav</h2>
               <p><b>DOB:</b> 16-07-1980</p>
@@ -163,9 +163,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={aarav2} alt="Aarav" className="image">
+        <img src={aarav2} alt="Aarav" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Aarav Yadav</h2>
               <p><b>DOB:</b> 01-10-2007</p>
@@ -176,9 +176,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={dinesh_family} alt="Dinesh" className="image">
+        <img src={dinesh_family} alt="Dinesh" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Dinesh Yadav</h2>
               <p><b>DOB:</b> 26-09-1980</p>
@@ -189,9 +189,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={swati} alt="Swati" className="image">
+        <img src={swati} alt="Swati" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Swati Yadav</h2>
               <p><b>DOB:</b> 14-07-1984</p>
@@ -202,9 +202,9 @@ export default function About() {
           </div>
       </div>
       <div className="container">        
-        <img src={mrinank} alt="Mrinank" className="image">
+        <img src={mrinank} alt="Mrinank" width="400px" height="400px">
           </img>
-          <div className="middle">
+          <div className="middle1">
             <div className="text">
               <h2>Mrinank Yadav</h2>
               <p><b>DOB:</b> 15-01-2010</p>
