@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/know-yadav-family/static/css/main.c38e36fe.css",
-    "main.js": "/know-yadav-family/static/js/main.c750fa20.js",
+    "main.css": "/know-yadav-family/static/css/main.48d7236a.css",
+    "main.js": "/know-yadav-family/static/js/main.cfcb857c.js",
     "static/media/mukesh.jpg": "/know-yadav-family/static/media/mukesh.b8969e5b73de46a986ac.jpg",
     "static/media/sunita_family_2.jpg": "/know-yadav-family/static/media/sunita_family_2.a617dbd660e2ac6ea1ae.jpg",
     "static/media/pintoo.png": "/know-yadav-family/static/media/pintoo.4cad4ef31ff163dfe0d4.png",
@@ -35,11 +35,11 @@
     "static/media/mrinank.JPG": "/know-yadav-family/static/media/mrinank.066362890d0cc448a45d.JPG",
     "static/media/atul.JPG": "/know-yadav-family/static/media/atul.c5d906dc82d451acfd4d.JPG",
     "index.html": "/know-yadav-family/index.html",
-    "main.c38e36fe.css.map": "/know-yadav-family/static/css/main.c38e36fe.css.map",
-    "main.c750fa20.js.map": "/know-yadav-family/static/js/main.c750fa20.js.map"
+    "main.48d7236a.css.map": "/know-yadav-family/static/css/main.48d7236a.css.map",
+    "main.cfcb857c.js.map": "/know-yadav-family/static/js/main.cfcb857c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c38e36fe.css",
-    "static/js/main.c750fa20.js"
+    "static/css/main.48d7236a.css",
+    "static/js/main.cfcb857c.js"
   ]
 }
