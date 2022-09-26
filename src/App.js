@@ -17,6 +17,7 @@ function App() {
       <div className="container">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/know-yadav-family" element={<Home />} />
           <Route path="/details" element={<Details />} />
           <Route path="/pics" element={<Pics />} />
           <Route path="/about" element={<About />} />

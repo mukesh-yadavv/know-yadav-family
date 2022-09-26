@@ -2,7 +2,8 @@ import familyPic from './pics/family.jpg';
 
 
 export default function Home() {
-  return <div>
+  return <div style={{ textAlign: 'center' }}>
+    {/* */}
     <h1>Welcome to Yadav's Family HomePage.</h1>
     <img 
       src={familyPic} 
